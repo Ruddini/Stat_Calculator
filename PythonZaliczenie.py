@@ -10,6 +10,9 @@ from PyQt5.QtWidgets import QMessageBox
 from PyQt5.QtCore import Qt
 lista = []
 
+# testowy pull-request
+
+
 class KalkStat(QWidget):
     
     def __init__(self, parent=None):
